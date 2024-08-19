@@ -1,10 +1,10 @@
 ### BOAS VINDAS AO MEU PERFIL
 
-Meu nome é Vivian Roveri
+Meu nome é Vivian Grella Roveri
 
 - Estou estudando no Alura
-- EStou me desenvolvendo na linguagem JavaScript
-- Utilixo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
   ### Você pode entrar em contato comigo
 
